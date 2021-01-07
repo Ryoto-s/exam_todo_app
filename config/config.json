@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "data",
+    "database": "todo_exam_development",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "data",
+    "database": "todo_exam_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "data",
+    "database": "todo_exam_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
